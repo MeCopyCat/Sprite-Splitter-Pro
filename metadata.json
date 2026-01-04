@@ -1,0 +1,5 @@
+{
+  "name": "Sprite Splitter Pro",
+  "description": "A powerful client-side tool to auto-detect, crop, and isolate game assets from sprite sheets. Features automatic background removal and bulk ZIP export.",
+  "requestFramePermissions": []
+}
